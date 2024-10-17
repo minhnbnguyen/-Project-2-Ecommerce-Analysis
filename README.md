@@ -1,4 +1,4 @@
-# -Project-2-Ecommerce-Analysis
+# Project 2: Ecommerce Analysis 🛍
 
 💫 Ecommerce Dataset: Exploratory Data Analysis (EDA) and Cohort Analysis in SQL
 
